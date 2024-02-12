@@ -74,3 +74,6 @@ label input:checked ~ .bulb
 {
     background: url(bulb_on.jpg);
 }
+
+
+/* this is comment */
